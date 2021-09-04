@@ -1,1 +1,1 @@
-# dicord_foul_language
+# dicord bot test
